@@ -1,7 +1,8 @@
 
 ---
 
-![]({{site.baseurl}}/https://www.r-project.org/Rlogo.png)
+
+![Rlogo.png]({{site.baseurl}}/Rlogo.png)
 
 ---
 
