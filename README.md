@@ -1,7 +1,7 @@
 
 ---
 
-
+![]({{site.baseurl}}/https://www.r-project.org/Rlogo.png)
 
 ---
 
