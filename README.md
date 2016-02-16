@@ -2,7 +2,7 @@
 ---
 
 
-![]({{site.baseurl}}//Rlogo.png)
+![]({{site.baseurl}}/./Rlogo.png)
 
 ---
 
