@@ -1,4 +1,9 @@
 
+---
+
+![Rlogo.png]({{site.baseurl}}/Rlogo.png)
+
+---
 
 ####  R Programming 
 
