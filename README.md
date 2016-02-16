@@ -22,7 +22,7 @@
 
 ---
 
-### [Session 2: R For SQL Users](./sessions/R-For-SQL-Users/)
+### [Session 2: R For SQL Users](./Sessions/R-For-SQL-Users/)
 
 
 
