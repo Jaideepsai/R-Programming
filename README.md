@@ -2,7 +2,7 @@
 ---
 
 
-![Rlogo](./Rlogopng)
+![Rlogo](./Rlogo.png)
 
 
 ---
