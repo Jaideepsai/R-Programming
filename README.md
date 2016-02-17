@@ -12,7 +12,7 @@
 
 ## Sessions
 
-### [Session 1: Introduction to R and RStudio](./Sessions/Basics-of-R/)
+### Session 1: Introduction to R and RStudio
 
 **Pre-requisites for this class**
 
@@ -28,7 +28,7 @@
 - Installing and Loading packages
 
 ---
-### Session 2 : Graphics and Visualization in R
+### [Session 2 : Graphics and Visualization in R](./Sessions/Basics-of-R/BECOMING%200%20TO%201%20IN%20R_1.pdf)
 
 **Topics Covered**
 
@@ -37,7 +37,7 @@
 
 
 ---
-### Session 3 : Data Structures in R
+### [Session 3 : Data Structures in R](./Sessions/Basics-of-R/BECOMING%200%20TO%201%20IN%20R_2.pdf)
 
 **Topics Covered**
 - Data Structures: Vectors, Lists, Matrices, Data frames
