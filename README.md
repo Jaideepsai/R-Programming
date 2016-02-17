@@ -78,7 +78,7 @@
 
 ---
 
-### [Session 7: R For SQL Users](./Sessions/R-For-SQL-Users/)
+### [Session 7: R For SQL Users](./Sessions/R-For-SQL-Users/R%20FOR%20SQL%20USERS.pdf)
 
 **Topics Covered**
 - Working with RMarkdown
