@@ -12,7 +12,7 @@
 
 ## Sessions
 
-### Session 1: Introduction to R and RStudio
+### [Session 1: Introduction to R and RStudio](./Sessions/Basics-of-R)
 
 **Pre-requisites for this class**
 
